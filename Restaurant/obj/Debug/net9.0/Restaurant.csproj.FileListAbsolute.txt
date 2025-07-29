@@ -1,0 +1,14 @@
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/bin/Debug/net9.0/Restaurant
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/bin/Debug/net9.0/Restaurant.deps.json
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/bin/Debug/net9.0/Restaurant.runtimeconfig.json
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/bin/Debug/net9.0/Restaurant.dll
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/bin/Debug/net9.0/Restaurant.pdb
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.AssemblyInfoInputs.cache
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.AssemblyInfo.cs
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.csproj.CoreCompileInputs.cache
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.dll
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/refint/Restaurant.dll
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.pdb
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/Restaurant.genruntimeconfig.cache
+/Users/basharsoufan/Desktop/Personal/Internship/ULTIMIT/new project/Restaurant/obj/Debug/net9.0/ref/Restaurant.dll
